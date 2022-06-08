@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin: 20px;
+    height: 100%;
+    background-color:  rgb(219, 198, 3);
+}
+header {
+    text-align: center;
+    color: rgb(16, 105, 238);
+}
+nav {
+    background-color:rgb(16, 105, 238);
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav li {
+    display: inline;
+    margin: 15px;
+}
+main {
+    display: inline-block;
+    color: rgb(32, 28, 28);
+    width: 70%;
+    height: 600px;
+    background-image: url(https://www.ebooksgratuits.com/html/st_exupery_le_petit_prince_fichiers/image012.jpg);
+}
+article {
+    padding: 10px;
+}
+aside {
+    display: inline-block;
+    text-align: center;
+    color: white;
+    width: 25%;
+    background-color:rgb(16, 105, 238);
+    height: 600px;
+    max-height: 1000px;
+    vertical-align: top;
+    border-radius: 10px 10px 10px 10px;
+}
+section {
+    padding: 0px;
+}
+footer {
+    text-align: center;
+    background-color: rgb(16, 105, 238);
+    color: rgb(250, 246, 246);
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+

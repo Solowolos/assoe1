@@ -1,3 +1,3 @@
 # Fichier README.md
 
-Il ne contient pas grand chose.
+C'est pas hyper simple d'utilisation...mais bon s'acharne et finalement on y'arrive!
